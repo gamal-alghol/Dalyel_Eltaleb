@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layoutDirection="rtl"
+
+    tools:context=".Fragment.FragmentSignupCode">
+<!--
+    android:background="@drawable/iug_back"
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.44" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.02189781" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:text="يرجى مراجعة البريد الألكتروني الخاص بك لتأكيد التسجيل,ثم اضغط تاكيد التسجيل"
+        android:textColor="@color/primary_dark"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <Button
+        android:id="@+id/Button_verify"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="16dp"
+
+        android:layout_marginRight="40dp"
+        android:background="@drawable/btn_sginup"
+        android:fontFamily="monospace"
+        android:paddingLeft="20dp"
+        android:text="تاكيد التسجيل"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textColorHint="#99242A37"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="30dp"
+        android:background="@color/line"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="التحقق من البريد الألكتروني"
+        android:textSize="22sp"
+        android:textStyle="bold"
+android:layout_marginRight="16dp"
+        android:fontFamily="@font/roboto"
+        android:textColor="@color/primary_dark"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline7" />
+-->
+</androidx.constraintlayout.widget.ConstraintLayout>

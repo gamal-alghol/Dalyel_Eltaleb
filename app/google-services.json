@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "930445834090",
+    "firebase_url": "https://course-e864f.firebaseio.com",
+    "project_id": "course-e864f",
+    "storage_bucket": "course-e864f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445834090:android:43835be57fa28d5f00d713",
+        "android_client_info": {
+          "package_name": "com.dalyel.dalyelaltaleb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vctJWkTbjCuyjcGstQ_MYmMGmszWSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445834090:android:cd389411b959e6ae00d713",
+        "android_client_info": {
+          "package_name": "com.example.adminmagles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vctJWkTbjCuyjcGstQ_MYmMGmszWSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930445834090:android:df27104b80a5bb9b00d713",
+        "android_client_info": {
+          "package_name": "com.h.admindaleltaleb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vctJWkTbjCuyjcGstQ_MYmMGmszWSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930445834090-q8oadu1samnpnfufgstdqhlkvghaqm4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

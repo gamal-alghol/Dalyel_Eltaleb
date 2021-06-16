@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    android:background="@drawable/iug_back"
+    tools:context=".Fragment.SubjectsFragment">
+
+    <ProgressBar
+        android:id="@+id/progress_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+
+        />
+    <ExpandableListView
+        android:id="@+id/list_subjects"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:childDivider="#00000000"
+        android:headerDividersEnabled="false"
+        tools:listitem="@layout/list_group"
+        android:dividerHeight="4dp"
+        android:groupIndicator="@null"
+        android:layout_marginTop="8dp"
+        />
+
+</FrameLayout>

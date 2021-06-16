@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/ic_house"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        android:title="@string/main" />
+
+
+    <item
+        android:id="@+id/majors"
+        android:icon="@drawable/ic_majors"
+        android:title="@string/majors"
+
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        />
+
+    <item
+        android:id="@+id/inquiry"
+        android:icon="@drawable/ic_question"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/colorPrimary"
+        android:title="@string/inquiry" />
+
+
+</menu>
+

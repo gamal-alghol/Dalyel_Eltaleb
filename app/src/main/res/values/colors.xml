@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#158BC2</color>
+    <color name="colorPrimaryDark">#1273a1</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="White">#fff</color>
+    <color name="rectangle">#3b5998</color>
+    <color name="black">#000</color>
+    <color name="edit_text">#E8E8E8</color>
+    <color name="navigation_Bar">#324b81</color>
+    <color name="line">#707070</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_light">#F1F1F1</color>
+    <color name="grey">#C8C7C7</color>
+    <color name="white">#fff</color>
+    <color name="red">#FF3A3F</color>
+    <color name="chip_btn">#F1F0F5</color>
+    <color name="back_Child">#66000000</color>
+    <color name="back_Child_2">#00000000</color>
+</resources>
